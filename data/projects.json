@@ -146,6 +146,25 @@
       "tools": "",
       "tags": [],
       "youtube": "JmmSd6xWtU4"
+    },
+    {
+      "id": "on-air-studio",
+      "section": "3d",
+      "title": "ON AIR Studio",
+      "description": "",
+      "year": "2026",
+      "category": "Render",
+      "tools": "Blender",
+      "tags": [
+        "Modelado",
+        "texturizado",
+        "ilumminacio"
+      ],
+      "image": {
+        "src": "assets/projects/on-air-studio-mwu3pr84.webp",
+        "width": 1920,
+        "height": 1080
+      }
     }
   ],
   "profile": {
