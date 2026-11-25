@@ -165,6 +165,23 @@
         "width": 1920,
         "height": 1080
       }
+    },
+    {
+      "id": "show-hour",
+      "section": "3d",
+      "title": "Show Hour",
+      "description": "",
+      "year": "2026",
+      "category": "Render",
+      "tools": "Blender",
+      "tags": [
+        "Modelado"
+      ],
+      "image": {
+        "src": "assets/projects/show-hour-mwvlqp8o.webp",
+        "width": 1920,
+        "height": 1080
+      }
     }
   ],
   "profile": {
